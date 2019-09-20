@@ -4,6 +4,7 @@ public class User {
 	
 	public String userName;
 	public String age;
+	public String foot;
 
 	public String getUserName() {
 		return userName;
